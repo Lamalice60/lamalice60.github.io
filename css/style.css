@@ -1,3 +1,11 @@
+/*- Personnal modification -*/
+/*- Adding whit BG to fa icon except on portfolio frame -*/
+.fa{
+  background: white;
+}
+.portfolio .fa {
+  background: none;
+}
 /*------------------------------------------------------------------------
 # VAN
 # ------------------------------------------------------------------------
